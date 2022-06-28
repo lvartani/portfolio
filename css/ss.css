@@ -1,0 +1,113 @@
+.ss{
+    text-align: center;
+    padding-bottom: 10px;
+
+}
+
+p {
+  font-family: "Cuprum", sans-serif;
+}
+h1 {
+  font-family: "Bangers", sans-serif;
+  font-size: 5.5rem;
+  margin-bottom: 0px;
+}
+.process_label {
+  font-family: "Cuprum", sans-serif;
+  text-transform: uppercase;
+  font-size: 2.5rem;
+  color: #177597;
+  margin-bottom: 0px;
+  font-weight: 700;
+
+}
+.quotes {
+  font-size: 1.1rem;
+  background-color: #94cdd3;
+  padding: 20px;
+}
+
+.callouts {
+  font-size: 2rem;
+  text-transform: uppercase;
+  font-style: italic;
+    background-color: #177597;
+    color:white;
+}
+
+.embolden {
+  font-family: "Bangers", sans-serif;
+  font-size: 2.5rem;
+}
+
+
+ul {
+  list-style-type: none;
+}
+li {
+  padding:5px;
+}
+.images {
+  text-align: center;
+  box-shadow: 0 10px 20px 0 rgb(0 0 0 / 10%);
+}
+.banner {
+  background-color: #94cdd3;
+  width: 100%;
+  padding: 20px 0px;
+  border-style: dotted dashed solid dashed;
+  border-width: medium;
+}
+
+.section_title {
+  font-family: "Bangers", sans-serif;
+  font-size: 6rem;
+}
+
+.screen{
+    width:100%;
+    height:100%;
+}
+
+.summary{
+    width:100%;
+    font-size: 1.1rem;
+
+}
+.margin{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.header{
+    font-family: "Cuprum", sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    line-height: 150%;
+    color: #177597;
+
+}
+.section{
+    font-family: "Bangers", sans-serif;
+    text-align: left;
+    margin-left: 10px;
+}
+.summary{
+        background-image: url("../images/grey_paper.png");
+        margin-bottom: 20px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        background-color: #DDDDDD;
+        margin-top: 15px;
+        font-weight: 600;
+}
+
+.role {
+  color: #177597;
+  font-size: 40px;
+}
+.summary p{
+    margin-left: 20px;
+}
+body{
+    padding-top:0!important;
+}
